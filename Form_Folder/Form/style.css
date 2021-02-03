@@ -1,0 +1,24 @@
+.mainbody_container{
+    margin: 20px;
+    background-color: cadetblue;
+    text-align: center;
+    border-radius: 10px;
+    background-size: cover;
+    padding: 10px;
+   
+    position: relative;
+    
+}
+input{
+    padding:6px;
+    font-size: 10px;
+    border-radius: 4px;
+}
+label{
+    width:200px;
+    text-align: right;
+}
+textarea{
+    padding:6px;
+    font-size:14px;
+}
